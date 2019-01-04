@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/CantStopWontStop/TMIS#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "express": "^4.16.4",
     "handlebars": "^4.0.12",
     "nodemon": "^1.18.9"
